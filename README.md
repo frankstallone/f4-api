@@ -17,18 +17,20 @@ Customer impact → shipping velocity → elegance → team growth
 4. Own the outcome, not just the task
 5. Share their growth goals so I can sponsor them
 
-## Communication contract
-| Channel | Use for | SLA |
-|---------|---------|-----|
-| Slack DM | Urgent blockers (<2 h) | ≥ within 2 h, work hrs |
-| Slack thread | Questions, async feedback | Same day |
-| Docs (PRD, spec, brief, RFC) | Proposals, specs | 24 h comment turn‑around |
-| Meeting | Decision or true brainstorm | Agenda + doc 24 h prior |
+## Communication preferences
+
+- **Slack DM > email** - fastest way to grab my attention for urgent matters
+- **Threads for async debate** - keep context in one spot; mention me if you need a same-day response
+- **Docs or Figma for deep dives** - tag me; I'll respond within 24 h
+- **Loom for walk-throughs > 5 min** - visuals help me absorb quickly; I'll leave timestamped comments
+- **Agenda + pre-read 24 h before meetings** - gives everyone space to prepare and contribute thoughtfully
+- **Camera on when possible** - face-to-face energy beats anonymous squares
+- **Bullet points > paragraphs for recaps** - clarify and scannability win every time
+- **PRD, spec, brief, RFC for big objectives** - clarifing thinking with writing shows you've thought through pros, cons, and risks
 
 _Note: Written > verbal for me, and I value time to think before we meet live._
 
-## Conflict resolution
-
+## Decision making process
 - **Listen first, always** - I'll always start by genuinely understanding your viewpoint, asking questions before I respond.
 - **Bring data, stay clear** - Facts, user insights, and measurable results resonate strongly with me. I'll reciprocate, and together we'll evaluate objectively.
 - **Raise concerns early** - Ping me via Slack or add a quick note as soon as you sense friction—early signals keep issues manageable.
@@ -52,6 +54,7 @@ _Note: Written > verbal for me, and I value time to think before we meet live._
 - My default greeting is “howdy”
 - I read faster than I listen, so crisp writing wins
 - Vague arguments trigger my Spidey-sense; bring structure and data
+- If it takes me less ≤ 15 minutes I will execute, > 15 minutes I will get it in queue
 - I’m a hopeless optimist: expect “we’ve got this!” energy
 
 ## My Promise to You
