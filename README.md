@@ -1,4 +1,6 @@
-# Frank Stallone – Work‑With‑Me API  (v07‑07-2025)
+# F4 API
+## Frank Stallone – Work‑With‑Me API
+_v07‑09-2025_
 
 ## What I optimise for
 Customer impact → shipping velocity → elegance → team growth
@@ -24,6 +26,7 @@ Customer impact → shipping velocity → elegance → team growth
 - **Docs or Figma for deep dives** - tag me; I'll respond within 24 h
 - **Loom for walk-throughs > 5 min** - visuals help me absorb quickly; I'll leave timestamped comments
 - **Agenda + pre-read 24 h before meetings** - gives everyone space to prepare and contribute thoughtfully
+- **Meeting padding** – End meetings 5–10 minutes early (25 min instead of 30, 50 min instead of 60). This breathing room helps everyone regroup, wrap notes, and transition comfortably to what's next.
 - **Camera on when possible** - face-to-face energy beats anonymous squares
 - **Bullet points > paragraphs for recaps** - clarify and scannability win every time
 - **PRD, spec, brief, RFC for big objectives** - clarifing thinking with writing shows you've thought through pros, cons, and risks
