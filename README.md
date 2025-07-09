@@ -48,10 +48,6 @@ _Note: Written > verbal for me, and I value time to think before we meet live._
 - I give real‑time praise; constructive feedback in writing first, then live discussion
 - Expect lightweight career check-ins every quarter
 
-## Autonomy & decision rights
-- **You decide:** rollout plans ≤ medium size, A/B variants, team rituals, your product domain expertise
-- **Consult me:** cross‑team dependencies, clarifying thinking, roadmap re‑prioritisation
-
 ## Quirks
 - Early bird: Deep-work 9 – 10 a.m. ET — please avoid meetings then
 - My default greeting is “howdy”
