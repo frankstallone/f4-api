@@ -29,14 +29,14 @@ _Note: Written > verbal for me, and I value time to think before we meet live._
 
 ## Conflict resolution
 
-- **Lead with curiosity and active listening** - I start every tense discussion by asking questions to surface everyone’s data and perspectives before reacting
-- **Bring evidence, not volume** - Facts, user anecdotes, and metrics move me far more than passionate assertions; I’ll reciprocate with my own data so we can evaluate side-by-side
-- **Surface concerns early** - A quick Slack message or “heads-up” comment prevents tension from stockpiling and avoids a surprising escalation later on
-- **Use a short, neutral script** - Try: _“What I’m seeing is __. My concern is __. I’d like to solve __ together.”_—it keeps the conversation calm and solution-focused
-- **Give me reflection space if the call gets heated** - When harmony fails, I shift into an analytical mode and may go quiet to gather facts before we reconvene
-- **Escalation rhythm – flag → collaborate → decide** - Surface the friction early; we'll hunt for compromise first. If still blocked after one business day, I'll choose the least‑regret path, document rationale, and set a checkpoint so new evidence can reopen the decision.
-- **Depersonalize and affirm the relationship** - A calm tone and reminders that we’re on the same side help me stay in the collaborative zone
-- **Close the loop afterward** - Once we land a solution, I like a quick follow-up to restore trust and ensure we’re stronger than before.
+- **Listen first, always** - I'll always start by genuinely understanding your viewpoint, asking questions before I respond.
+- **Bring data, stay clear** - Facts, user insights, and measurable results resonate strongly with me. I'll reciprocate, and together we'll evaluate objectively.
+- **Raise concerns early** - Ping me via Slack or add a quick note as soon as you sense friction—early signals keep issues manageable.
+- **Neutral, solution-focused language** - Frame discussions calmly: “Here's what I'm seeing..., here's my concern..., what's the best way to solve this together?” This ensures we stay collaborative and clear.
+- **Space for thoughtful reflection** - If a conversation gets heated, expect me to pause briefly to process and gather my thoughts before we reconnect constructively.
+- **Escalation rhythm: Flag → Collaborate → Decide** - Surface friction quickly, explore the data openly, then seek a mutual solution first. If we’re still stuck after a day, I'll pick a transparent, low-risk path, document my reasoning, and schedule a follow-up checkpoint. Fresh insights always reopen the door—ego stays sidelined.
+- **Relationship first** - Even in disagreement, we remain teammates. Let's explicitly remind each other of that.
+- **Close the loop** - After resolving the issue, a quick follow-up ensures solutions hold and trust grows stronger.
 
 ## 1‑on‑1s / feedback
 - Weekly 30 min, agenda owned by **you**. Template: Wins, Challenges, Growth, Topics
