@@ -54,6 +54,8 @@ _Note: Written > verbal for me, and I value time to think before we meet live._
 - I read faster than I listen, so crisp writing wins
 - Vague arguments trigger my Spidey-sense; bring structure and data
 - If it takes me less ≤ 15 minutes I will execute, > 15 minutes I will get it in queue
+- I'm insatiably curious
+- I always assume positive intent
 - I’m a hopeless optimist: expect “we’ve got this!” energy
 
 ## My Promise to You
