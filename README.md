@@ -14,7 +14,7 @@ Customer impact → shipping velocity → elegance → team growth
 
 ## Teammates thrive when they…
 1. Push back with evidence, prototypes, or user anecdotes
-2. Send a five-line summary before requesting a meeting
+2. Send a quick summary before requesting a meeting
 3. Turn “learns” into proposals, not complaints
 4. Own the outcome, not just the task
 5. Share their growth goals so I can sponsor them
@@ -25,7 +25,7 @@ Customer impact → shipping velocity → elegance → team growth
 - **Threads for async debate** - keep context in one spot; mention me if you need a same-day response
 - **Docs or Figma for deep dives** - tag me; I'll respond within 24 h
 - **Loom for walk-throughs > 5 min** - visuals help me absorb quickly; I'll leave timestamped comments
-- **Agenda + pre-read 24 h before meetings** - gives everyone space to prepare and contribute thoughtfully
+- **Agenda + pre-read 24h before meetings** - gives everyone space to prepare and contribute thoughtfully
 - **Meeting padding** – End meetings 5–10 minutes early (25 min instead of 30, 50 min instead of 60). This breathing room helps everyone regroup, wrap notes, and transition comfortably to what's next.
 - **Camera on when possible** - face-to-face energy beats anonymous squares
 - **Bullet points > paragraphs for recaps** - clarify and scannability win every time
