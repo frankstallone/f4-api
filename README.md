@@ -1,9 +1,15 @@
 # F4 API
-## Frank Stallone – Work‑With‑Me API
-_v01‑31‑2026_
+_Last updated: 2026-02-01_
+
+This is my ‘work-with-me API’—a short guide to how I communicate, make decisions, and what success looks like on my teams. Treat it as a starting point for faster alignment, not a set of rules; I’d love your version too.
 
 ## What I optimise for
 Customer impact → shipping velocity → elegance → team growth
+
+## What success looks like
+In ~6 months, I want you telling me what we should do—not waiting for direction. If I’m still prescribing the work, we should treat that as a signal to recalibrate (support, scope, or fit).
+
+We get there with a growth mindset: bring the miss + what you learned + what you’ll try next. I’ll do the same.
 
 ## Principles
 - **Facts before ego** – I will change my mind when data or users prove me wrong
@@ -21,27 +27,27 @@ Customer impact → shipping velocity → elegance → team growth
 
 ## Communication preferences
 
-- **Slack DM > email** - fastest way to grab my attention for urgent matters
-- **Threads for async debate** - keep context in one spot; mention me if you need a same-day response
-- **Docs or Figma for deep dives** - tag me; I'll respond within 24 h
-- **Loom for walk-throughs > 5 min** - visuals help me absorb quickly; I'll leave timestamped comments
-- **Agenda + pre-read 24h before meetings** - gives everyone space to prepare and contribute thoughtfully
+- **Slack DM > email** – fastest way to grab my attention for urgent matters
+- **Threads for async debate** – keep context in one spot; mention me if you need a same-day response
+- **Docs or Figma for deep dives** – tag me; I'll respond within 24 h
+- **Loom for walk-throughs > 5 min** – visuals help me absorb quickly; I'll leave timestamped comments
+- **Agenda + pre-read 24h before meetings** – gives everyone space to prepare and contribute thoughtfully
 - **Meeting padding** – End meetings 5–10 minutes early (25 min instead of 30, 50 min instead of 60). This breathing room helps everyone regroup, wrap notes, and transition comfortably to what's next.
-- **Camera on when possible** - face-to-face energy beats anonymous squares
-- **Bullet points > paragraphs for recaps** - clarify and scannability win every time
-- **PRD, spec, brief, RFC for big objectives** - clarifing thinking with writing shows you've thought through pros, cons, and risks
+- **Camera on when possible** – face-to-face energy beats anonymous squares
+- **Bullet points > paragraphs for recaps** – clarify and scannability win every time
+- **PRD, spec, brief, RFC for big objectives** – clarifing thinking with writing shows you've thought through pros, cons, and risks
 
 _Note: Written > verbal for me, and I value time to think before we meet live._
 
 ## Decision making process
-- **Listen first, always** - I'll always start by genuinely understanding your viewpoint, asking questions before I respond.
-- **Bring data, stay clear** - Facts, user insights, and measurable results resonate strongly with me. I'll reciprocate, and together we'll evaluate objectively.
-- **Raise concerns early** - Ping me via Slack or add a quick note as soon as you sense friction—early signals keep issues manageable.
-- **Neutral, solution-focused language** - Frame discussions calmly: “Here's what I'm seeing..., here's my concern..., what's the best way to solve this together?” This ensures we stay collaborative and clear.
-- **Space for thoughtful reflection** - If a conversation gets heated, expect me to pause briefly to process and gather my thoughts before we reconnect constructively.
-- **Escalation rhythm: Flag → Collaborate → Decide** - Surface friction quickly, explore the data openly, then seek a mutual solution first. If we’re still stuck after a day, I'll pick a transparent, low-risk path, document my reasoning, and schedule a follow-up checkpoint. Fresh insights always reopen the door—ego stays sidelined.
-- **Relationship first** - Even in disagreement, we remain teammates. Let's explicitly remind each other of that.
-- **Close the loop** - After resolving the issue, a quick follow-up ensures solutions hold and trust grows stronger.
+- **Listen first, always** – I'll always start by genuinely understanding your viewpoint, asking questions before I respond.
+- **Bring data, stay clear** – Facts, user insights, and measurable results resonate strongly with me. I'll reciprocate, and together we'll evaluate objectively.
+- **Raise concerns early** – Ping me via Slack or add a quick note as soon as you sense friction—early signals keep issues manageable.
+- **Neutral, solution-focused language** – Frame discussions calmly: “Here's what I'm seeing..., here's my concern..., what's the best way to solve this together?” This ensures we stay collaborative and clear.
+- **Space for thoughtful reflection** – If a conversation gets heated, expect me to pause briefly to process and gather my thoughts before we reconnect constructively.
+- **Escalation rhythm: Flag → Collaborate → Decide** – Surface friction quickly, explore the data openly, then seek a mutual solution first. If we’re still stuck after a day, I'll pick a transparent, low-risk path, document my reasoning, and schedule a follow-up checkpoint. Fresh insights always reopen the door—ego stays sidelined.
+- **Relationship first** – Even in disagreement, we remain teammates. Let's explicitly remind each other of that.
+- **Close the loop** – After resolving the issue, a quick follow-up ensures solutions hold and trust grows stronger.
 
 ### Under stress / conflict
 When things get tense, I tend to move through three phases:
