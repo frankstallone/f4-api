@@ -43,16 +43,17 @@ _Note: Written > verbal for me, and I value time to think before we meet live._
 - **Relationship first** - Even in disagreement, we remain teammates. Let's explicitly remind each other of that.
 - **Close the loop** - After resolving the issue, a quick follow-up ensures solutions hold and trust grows stronger.
 
-### Conflict style (under stress)
-My SDI conflict sequence tends to look like **Blue → Green → Red**:
-- **Blue (harmony-first):** I’ll listen, accommodate, and try to keep things collaborative.
-- **Green (analysis):** if it’s still messy, I may go quieter while I gather facts and think.
-- **Red (decisive):** if it drags on, I’ll push for a clear decision and may come in stronger than you expect.
+### Under stress / conflict
+When things get tense, I tend to move through three phases:
 
-**How to work with this (the cheat code):**
-- If you notice me getting quiet, don’t assume disengagement — ask: “Do you want time to think, or do you want to talk it through now?”
-- Help me “bridge” the Green phase with a quick check-in line: “I’m not fully landed yet, but here’s what I’m concerned about…”
-- If I’m coming in hot, it’s usually because I let friction simmer too long. It’s totally fair to say: “Let’s slow down and restate the shared goal.”
+1. **Harmony-first:** I’ll listen, ask questions, and try to keep things collaborative.
+2. **Quiet processing:** I may go a bit quieter while I gather facts and think.
+3. **Decisive mode:** If it drags on, I’ll push for a clear decision and tighter constraints.
+
+**How to work with me in those moments**
+- If I go quiet, don’t assume disengagement — ask: “Do you want 30 minutes to think, or should we talk now?”
+- If you need urgency, say so explicitly: “I need a decision by EOD because X.”
+- If I come in strong, it’s fair to say: “Let’s restate the goal and options so we stay aligned.”
 
 ## 1‑on‑1s / feedback
 - Weekly 30 min, agenda owned by **you**. Template: Wins, Challenges, Growth, Topics
