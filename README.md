@@ -1,6 +1,6 @@
 # F4 API
 ## Frank Stallone – Work‑With‑Me API
-_v01‑31‑2026 (rev: SDI-informed)_
+_v01‑31‑2026_
 
 ## What I optimise for
 Customer impact → shipping velocity → elegance → team growth
