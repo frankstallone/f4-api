@@ -1,6 +1,6 @@
 # F4 API
 ## Frank Stallone – Work‑With‑Me API
-_v07‑09-2025_
+_v01‑31‑2026_
 
 ## What I optimise for
 Customer impact → shipping velocity → elegance → team growth
@@ -43,10 +43,30 @@ _Note: Written > verbal for me, and I value time to think before we meet live._
 - **Relationship first** - Even in disagreement, we remain teammates. Let's explicitly remind each other of that.
 - **Close the loop** - After resolving the issue, a quick follow-up ensures solutions hold and trust grows stronger.
 
+### Under stress / conflict
+When things get tense, I tend to move through three phases:
+
+1. **Harmony-first:** I’ll listen, ask questions, and try to keep things collaborative.
+2. **Quiet processing:** I may go a bit quieter while I gather facts and think.
+3. **Decisive mode:** If it drags on, I’ll push for a clear decision and tighter constraints.
+
+**How to work with me in those moments**
+- If I go quiet, don’t assume disengagement — ask: “Do you want 30 minutes to think, or should we talk now?”
+- If you need urgency, say so explicitly: “I need a decision by EOD because X.”
+- If I come in strong, it’s fair to say: “Let’s restate the goal and options so we stay aligned.”
+
 ## 1‑on‑1s / feedback
 - Weekly 30 min, agenda owned by **you**. Template: Wins, Challenges, Growth, Topics
 - I give real‑time praise; constructive feedback in writing first, then live discussion
 - Expect lightweight career check-ins every quarter
+
+### How to give me feedback (so it lands)
+- **Start with the goal:** “Here’s what we’re optimizing for…”
+- **Name the observation (facts):** “I observed X…”
+- **Name the impact:** “The impact was Y…”
+- **Make a request:** “Can we try Z next time?”
+
+If it’s sensitive: send it in writing first. I’ll process better and show up calmer.
 
 ## Quirks
 - Early bird: Deep-work 9 – 10 a.m. ET — please avoid meetings then
@@ -57,6 +77,11 @@ _Note: Written > verbal for me, and I value time to think before we meet live._
 - I'm insatiably curious
 - I always assume positive intent
 - I’m a hopeless optimist: expect “we’ve got this!” energy
+
+### My overdone-strengths (help me avoid these)
+- **Over-supporting / overcommitting:** If you see me saying “yes” too quickly, ask: “What are you saying no to if you take this?”
+- **Modesty / under-selling impact:** If I ship something meaningful, it helps if you reflect it back: “That moved X metric / unblocked Y.”
+- **Too much harmony:** If something’s off, I’d rather hear it early than get surprised later.
 
 ## My Promise to You
 - Remove blockers within 24 h
