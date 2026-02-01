@@ -1,5 +1,5 @@
 # F4 API
-_v01‑31‑2026_
+_Last updated: 2026-02-01_
 
 This is my ‘work-with-me API’—a short guide to how I communicate, make decisions, and what success looks like on my teams. Treat it as a starting point for faster alignment, not a set of rules; I’d love your version too.
 
