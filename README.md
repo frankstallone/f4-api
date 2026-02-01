@@ -35,7 +35,7 @@ We get there with a growth mindset: bring the miss + what you learned + what you
 - **Meeting padding** – End meetings 5–10 minutes early (25 min instead of 30, 50 min instead of 60). This breathing room helps everyone regroup, wrap notes, and transition comfortably to what's next.
 - **Camera on when possible** – face-to-face energy beats anonymous squares
 - **Bullet points > paragraphs for recaps** – clarify and scannability win every time
-- **PRD, spec, brief, RFC for big objectives** – clarifing thinking with writing shows you've thought through pros, cons, and risks
+- **PRD, spec, brief, RFC for big objectives** – clarifying thinking with writing shows you've thought through pros, cons, and risks
 
 _Note: Written > verbal for me, and I value time to think before we meet live._
 
