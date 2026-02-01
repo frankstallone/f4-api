@@ -1,7 +1,7 @@
 # F4 API
-## Frank Stallone – Work‑With‑Me API
-This is my ‘work-with-me API’—a short guide to how I communicate, make decisions, and what success looks like on my teams. Treat it as a starting point for faster alignment, not a set of rules; I’d love your version too.
 _v01‑31‑2026_
+
+This is my ‘work-with-me API’—a short guide to how I communicate, make decisions, and what success looks like on my teams. Treat it as a starting point for faster alignment, not a set of rules; I’d love your version too.
 
 ## What I optimise for
 Customer impact → shipping velocity → elegance → team growth
