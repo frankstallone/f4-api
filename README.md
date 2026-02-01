@@ -5,6 +5,9 @@ _v01‑31‑2026_
 ## What I optimise for
 Customer impact → shipping velocity → elegance → team growth
 
+## What success looks like
+In ~6 months, I want you telling me what we should do—not waiting for direction. If I’m still prescribing the work, we should treat that as a signal to recalibrate (support, scope, or fit).
+
 ## Principles
 - **Facts before ego** – I will change my mind when data or users prove me wrong
 - **Default to trust** – I assume positive intent and reciprocate it
