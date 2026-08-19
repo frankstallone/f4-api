@@ -1,96 +1,78 @@
 # F4 API
-_Last updated: 2026-02-01_
 
-This is my ‘work-with-me API’—a short guide to how I communicate, make decisions, and what success looks like on my teams. Treat it as a starting point for faster alignment, not a set of rules; I’d love your version too.
+*Updated: Aug 19, 2026*
 
-## What I optimise for
+This is how I communicate, make decisions, and define success on my teams. Use it to align faster, not as rules. I'd love your version too.
+
+## What I optimize for
+
 Customer impact → shipping velocity → elegance → team growth
 
-## What success looks like
-In ~6 months, I want you telling me what we should do—not waiting for direction. If I’m still prescribing the work, we should treat that as a signal to recalibrate (support, scope, or fit).
+At Tenex, [Product Sculpting](https://tenex.atlassian.net/wiki/spaces/TENEX/pages/671023130/Design+Engineering+Framework) means shared ownership, prototypes, production ready UI, and time on stone together.
 
-We get there with a growth mindset: bring the miss + what you learned + what you’ll try next. I’ll do the same.
+Within six months, I want you telling me what we should do, not waiting for direction. If I'm still prescribing the work, we should look at support, scope, or fit.
 
-## Principles
-- **Facts before ego** – I will change my mind when data or users prove me wrong
-- **Default to trust** – I assume positive intent and reciprocate it
-- **One team, one score** – Company wins outrank function wins
-- **Kaizen every day** – Small, continuous improvements beat sporadic moon-shots
-- **Law of attraction** – We get the energy we project, so let’s stay solution-oriented
+Bring the miss, what you learned, and what you'll try next. I'll do the same. Small improvements compound.
 
-## Teammates thrive when they…
-1. Push back with evidence, prototypes, or user anecdotes
-2. Send a quick summary before requesting a meeting
-3. Turn “learns” into proposals, not complaints
-4. Own the outcome, not just the task
-5. Share their growth goals so I can sponsor them
+## What I value in teammates
 
-## Communication preferences
+* Put facts before ego. I'll change my mind when data or users prove me wrong.  
+* Assume positive intent. Disagree without forgetting we're teammates.  
+* Push back with evidence, prototypes, or user stories.  
+* Turn what you learn into a proposal, not a complaint.  
+* Own the outcome, not just the task. Tenex winning matters more than any function winning.  
+* Share your growth goals so I can help create opportunities for you.
 
-- **Slack DM > email** – fastest way to grab my attention for urgent matters
-- **Threads for async debate** – keep context in one spot; mention me if you need a same-day response
-- **Docs or Figma for deep dives** – tag me; I'll respond within 24 h
-- **Loom for walk-throughs > 5 min** – visuals help me absorb quickly; I'll leave timestamped comments
-- **Agenda + pre-read 24h before meetings** – gives everyone space to prepare and contribute thoughtfully
-- **Meeting padding** – End meetings 5–10 minutes early (25 min instead of 30, 50 min instead of 60). This breathing room helps everyone regroup, wrap notes, and transition comfortably to what's next.
-- **Camera on when possible** – face-to-face energy beats anonymous squares
-- **Bullet points > paragraphs for recaps** – clarify and scannability win every time
-- **PRD, spec, brief, RFC for big objectives** – clarifying thinking with writing shows you've thought through pros, cons, and risks
+## How to communicate with me
 
-_Note: Written > verbal for me, and I value time to think before we meet live._
+* Use Google Chat for anything urgent. Use threads for debate. Mention me if you need an answer the same day.  
+* Use Docs or GitHub issues for a deep dive. Tag me and I'll respond within 24 hours.  
+* Use video when it's faster than text. I'll leave timestamped comments.  
+* Send an agenda and pre-read 24 hours before a meeting when you can.  
+* End meetings 5 to 10 minutes early: 25 instead of 30, or 50 instead of 60\.  
+* Keep your camera on when possible. Seeing each other helps.  
+* Use bullets for recaps. For a big objective, [Product Spec RFC Template](https://docs.google.com/document/d/1DFOnf7S0NyRALIaG08Bq0ec6GAmtniOKylris23uGBA/edit?tab=t.0), brief, or RFC to show the tradeoffs and risks.
 
-## Decision making process
-- **Listen first, always** – I'll always start by genuinely understanding your viewpoint, asking questions before I respond.
-- **Bring data, stay clear** – Facts, user insights, and measurable results resonate strongly with me. I'll reciprocate, and together we'll evaluate objectively.
-- **Raise concerns early** – Ping me via Slack or add a quick note as soon as you sense friction—early signals keep issues manageable.
-- **Neutral, solution-focused language** – Frame discussions calmly: “Here's what I'm seeing..., here's my concern..., what's the best way to solve this together?” This ensures we stay collaborative and clear.
-- **Space for thoughtful reflection** – If a conversation gets heated, expect me to pause briefly to process and gather my thoughts before we reconnect constructively.
-- **Escalation rhythm: Flag → Collaborate → Decide** – Surface friction quickly, explore the data openly, then seek a mutual solution first. If we’re still stuck after a day, I'll pick a transparent, low-risk path, document my reasoning, and schedule a follow-up checkpoint. Fresh insights always reopen the door—ego stays sidelined.
-- **Relationship first** – Even in disagreement, we remain teammates. Let's explicitly remind each other of that.
-- **Close the loop** – After resolving the issue, a quick follow-up ensures solutions hold and trust grows stronger.
+Writing helps me think and preserves decisions. Conversation is useful for discovery. After we talk, **write down what matters**.
 
-### Under stress / conflict
-When things get tense, I tend to move through three phases:
+## How I make decisions
 
-1. **Harmony-first:** I’ll listen, ask questions, and try to keep things collaborative.
-2. **Quiet processing:** I may go a bit quieter while I gather facts and think.
-3. **Decisive mode:** If it drags on, I’ll push for a clear decision and tighter constraints.
+* I listen and ask questions before I respond.  
+* Bring facts, user insight, and measurable results. Vague arguments trigger my Spidey sense.  
+* Raise concerns early. Tell me what you see, why it matters, and what we should do.  
+* Keep the language calm and focus on the problem. Be direct without attacking each other.  
+* If we're still stuck after a day, I'll choose a transparent path with low risk, document why, and set a checkpoint. New evidence can reopen it.  
+* Close the loop so we know the solution held.
 
-**How to work with me in those moments**
-- If I go quiet, don’t assume disengagement — ask: “Do you want 30 minutes to think, or should we talk now?”
-- If you need urgency, say so explicitly: “I need a decision by EOD because X.”
-- If I come in strong, it’s fair to say: “Let’s restate the goal and options so we stay aligned.”
+## When things get tense
 
-## 1‑on‑1s / feedback
-- Weekly 30 min, agenda owned by **you**. Template: Wins, Challenges, Growth, Topics
-- I give real‑time praise; constructive feedback in writing first, then live discussion
-- Expect lightweight career check-ins every quarter
+I listen first, go quiet while I gather facts, then push for a decision if the problem drags on.
 
-### How to give me feedback (so it lands)
-- **Start with the goal:** “Here’s what we’re optimizing for…”
-- **Name the observation (facts):** “I observed X…”
-- **Name the impact:** “The impact was Y…”
-- **Make a request:** “Can we try Z next time?”
+* If I go quiet, don't assume I've disengaged. Ask, "Do you want 30 minutes to think, or should we talk now?"  
+* If you need urgency, say why: "I need a decision by EOD because X."  
+* If I come in strong, say, "Let's restate the goal and options so we stay aligned."
 
-If it’s sensitive: send it in writing first. I’ll process better and show up calmer.
+## Feedback and growth
 
-## Quirks
-- Early bird: Deep-work 9 – 10 a.m. ET — please avoid meetings then
-- My default greeting is “howdy”
-- I read faster than I listen, so crisp writing wins
-- Vague arguments trigger my Spidey-sense; bring structure and data
-- If it takes me less ≤ 15 minutes I will execute, > 15 minutes I will get it in queue
-- I'm insatiably curious
-- I always assume positive intent
-- I’m a hopeless optimist: expect “we’ve got this!” energy
+* Our one on one is weekly for 30 minutes. You own the agenda: wins, challenges, growth, and topics.  
+* I give praise in the moment and celebrate wins publicly. Constructive feedback comes in writing first, then live.  
+* Expect a lightweight career check-in every quarter.  
+* For feedback to me, start with the goal, name what you observed and its impact, then make a request. If it's sensitive, write first. I'll process it better and show up calmer.
 
-### My overdone-strengths (help me avoid these)
-- **Over-supporting / overcommitting:** If you see me saying “yes” too quickly, ask: “What are you saying no to if you take this?”
-- **Modesty / under-selling impact:** If I ship something meaningful, it helps if you reflect it back: “That moved X metric / unblocked Y.”
-- **Too much harmony:** If something’s off, I’d rather hear it early than get surprised later.
+## Current defaults and quirks
 
-## My Promise to You
-- Remove blockers within 24 h
-- Sponsor you for stretch projects when you show readiness
-- Celebrate your wins publicly, coach privately
-- Protect thinking time and psychological safety
+* Please protect 9 to 10 a.m. ET for deep work.  
+* My default greeting is "howdy."  
+* I read faster than I listen. Crisp writing wins.  
+* If something takes 15 minutes or less, I'll do it. If it takes longer, I'll put it in the queue.  
+* I'm insatiably curious and a hopeless optimist. Expect some "we've got this" energy.  
+* I can say yes too quickly. Ask, "What are you saying no to if you take this?"  
+* I sometimes undersell my impact. If something I ship moves a metric or unblocks work, reflect that back to me.  
+* I can favor harmony for too long. If something is off, tell me early.
+
+## What you can expect from me
+
+* I'll remove blockers within 24 hours.  
+* I'll sponsor you for stretch projects when you show readiness.  
+* I'll celebrate your wins publicly and coach privately.  
+* I'll protect thinking time and psychological safety.
